@@ -1,0 +1,32 @@
+.back {
+    background-image: url("https://www.theglobeandmail.com/resizer/Q3t9y9mbBe3lJfCFaxFVD5kLyvI=/600x0/filters:quality(80):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/tgam/Y5L47TVQNFHBXKINM2CKHUJWJE");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.head{
+    text-align: center;
+    color: rgba(240, 248, 255, 0.945);
+    padding-top: 70px;
+}
+.log{
+    text-align: center;
+    color: rgb(47, 49, 49);
+    font-size: medium;
+    font-family:cursive;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.but{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    background-color: aqua;
+    margin-left: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
